@@ -1,0 +1,19 @@
+Address of var[0] = f0bed9e0, Value of var[0] = 10
+Address of var[1] = f0bed9e4, Value of var[1] = 20
+Address of var[2] = f0bed9e8, Value of var[2] = 30
+Address of var[3] = f0bed9ec, Value of var[3] = 40
+Address of var[4] = f0bed9f0, Value of var[4] = 50
+After increasing each element by 8:
+Value of var[0] = 18
+Value of var[1] = 28
+Value of var[2] = 38
+Value of var[3] = 48
+Value of var[4] = 58
+CVE ID: CVE-2022-27255
+CVSS Severity: 9.800000
+CVE Description: In Realtek eCos RSDK 1.5.7p1 and MSDK 4.9.4p1, the SIP ALG function that rewrites SDP data has a sta
+CVE ID too long
+CVE Description too long
+CVE ID: CVE-2022-27255N
+CVSS Severity: 9.800000
+CVE Description: In Realtek eCos RSDK 1.5.7p1 and MSDK 4.9.4p1, the SIP ALG function that rewrites SDP data has a sta
